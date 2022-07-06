@@ -1,4 +1,5 @@
 /****** Script for SelectTopNRows command from SSMS  ******/
+-- PERFORMED RFM ANALYSIS ON CUSTOMERS
 SELECT *
   FROM [salesData_db].[dbo].[Sales]
 
